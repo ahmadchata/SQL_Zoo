@@ -1,6 +1,6 @@
 # SQL_Zoo
 
-# These are exercises from [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+## These are exercises from [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 - SELECT basics.
 - SELECT from world.
